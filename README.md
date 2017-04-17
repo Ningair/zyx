@@ -4,7 +4,6 @@ The third line.
 The fourth line.
 The fifth line.
 The sixth line.
-THE SIXTH LINE.
 The seventh line.
 The eighth line.
 The ninth line.
